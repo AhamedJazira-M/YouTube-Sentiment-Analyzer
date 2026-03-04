@@ -102,4 +102,4 @@ streamlit run dashboard.py
 ## 👨‍💻 AUTHOR
 
 Ahamed Jazira M
-AI & Data Science Student
+ ( AI & Data Science Student )
