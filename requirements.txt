@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+plotly
+selenium
+webdriver-manager
+nltk
+textblob
+pandas
+pytest
